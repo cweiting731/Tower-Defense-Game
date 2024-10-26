@@ -1,0 +1,14 @@
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\bin\Debug\F74121246_practice_5_2.exe.config
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\bin\Debug\F74121246_practice_5_2.exe
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\bin\Debug\F74121246_practice_5_2.pdb
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.csproj.AssemblyReference.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.Form1.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.FrontPage.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.MainPage.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.Properties.Resources.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.csproj.GenerateResource.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.csproj.CoreCompileInputs.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.exe
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.pdb
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.PickRolePage.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 6 practice 5\F74121246_practice_5_2\F74121246_practice_5_2\obj\Debug\F74121246_practice_5_2.EndPage.resources

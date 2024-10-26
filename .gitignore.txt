@@ -1,0 +1,17 @@
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Other common ignored files
+*.tmp
+*.log
+*.pdb
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
